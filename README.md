@@ -24,7 +24,7 @@ Land-use classification (Geomni - UKLand) : https://digimap.edina.ac.uk/geomni
 𝑞𝑗 = number of cars charged by station 𝑗 <br />
 𝑚𝑗 = maximum number of charging sessions per day in station 𝑗 <br />
 𝑙𝑗 = upper bound of chargers in station 𝑗 <br />
-𝑟𝑖𝑗 = binary variable which represents the service area coverage level of station j on demand node i <br />
+𝑟𝑖𝑗 = binary variable which represents the service area coverage level of station 𝑗 on demand node 𝑖 <br />
 𝑓𝑖 = average traffic flow in grid cell 𝑖 <br />
 𝐾𝑖 = Number of traffic flow measurement points in grid cell 𝑖 <br />
 𝑓𝑘𝑖 = Daily traffic flow in grid cell 𝑖 <br />
@@ -34,6 +34,12 @@ Land-use classification (Geomni - UKLand) : https://digimap.edina.ac.uk/geomni
 𝐴𝑖 = Sum of mixed-use area in grid cell 𝑖 <br />
 𝑑𝑟𝑖 = Remaining demand in grid cell 𝑖 <br />
 𝑑𝑖 = Charging demand of an EV in grid cell 𝑖 <br />
+𝑐𝑗 = total costs of station 𝑗 <br />
+𝑐𝑗^𝑒 = capital cost of station 𝑗 <br />
+𝑐𝑗^𝑖 = installation cost of station 𝑗 <br />
+𝑝𝑒 = price of electricity per kWh <br />
+α = average capacity of EV battery (kWh) <br />
+
 
 
 
