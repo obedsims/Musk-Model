@@ -14,4 +14,4 @@ Land-use classification (Geomni - UKLand) : https://digimap.edina.ac.uk/geomni
 # Problem
 ![formulation](https://github.com/obedsims/Musk-Model/blob/main/screenshots/formulation.png)
 
-𝑥_𝑗 : binary variable whether car park 𝑗 is selected for a charging station
+𝑥_𝑗 = binary variable whether car park 𝑗 is selected for a charging station
