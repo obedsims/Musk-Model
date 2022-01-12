@@ -35,8 +35,8 @@ Land-use classification (Geomni - UKLand) : https://digimap.edina.ac.uk/geomni
 𝑑𝑟𝑖 = Remaining demand in grid cell 𝑖 <br />
 𝑑𝑖 = Charging demand of an EV in grid cell 𝑖 <br />
 𝑐𝑗 = total costs of station 𝑗 <br />
-𝑐𝑗^𝑒 = capital cost of station 𝑗 <br />
-𝑐𝑗^𝑖 = installation cost of station 𝑗 <br />
+𝑐𝑗<sup>𝑒</sup> = capital cost of station 𝑗 <br />
+𝑐𝑗<sup>𝑖</sup> = installation cost of station 𝑗 <br />
 𝑝𝑒 = price of electricity per kWh <br />
 α = average capacity of EV battery (kWh) <br />
 
