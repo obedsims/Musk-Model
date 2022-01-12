@@ -206,8 +206,8 @@ def optimize(df_demand, df_parking):
 
     for variable in prob.variables():
         var = variable.name
-        print(var)
-        print(variable.varValue)
+#         print(var)
+#         print(variable.varValue)
 
     var_df = pd.DataFrame.from_dict(varDic, orient='index', columns=['value'])
     # Sort the results numerically
@@ -216,11 +216,11 @@ def optimize(df_demand, df_parking):
     var_df.reset_index(inplace=True)
 
     location_df = pd.DataFrame(opt_location, columns=['opt_car_park_id'])
-    print(location_df.head())
-    print(car_park_df.head())
+#     print(location_df.head())
+#     print(car_park_df.head())
     opt_loc_df = pd.merge(location_df, car_park_df, left_on='opt_car_park_id',  right_index=True, how='left')
     opt_loc_df2 = pd.merge(opt_loc_df, var_df, left_on='opt_car_park_id',  right_index=True, how='left')
-    opt_loc_df2.to_csv(path_or_buf='optimal_locations.csv')
+#     opt_loc_df2.to_csv(path_or_buf='optimal_locations.csv')
 
     # Import the road shapefiles
     shp_path_roads_1 = '/optimise_EV_location/Road_Data/SD_region.shp'
