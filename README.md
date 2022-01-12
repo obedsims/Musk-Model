@@ -11,9 +11,13 @@ Road shapefiles : https://www.ordnancesurvey.co.uk/business-government/products/
 Land-use classification (Geomni - UKLand) : https://digimap.edina.ac.uk/geomni
 
 
-# Problem
+# Objective function and Constraints
 ![formulation](https://github.com/obedsims/Musk-Model/blob/main/screenshots/formulation.png)
 
+# Equations
+
+
+# Symbol Glossary
 𝑥𝑗 = binary variable whether car park 𝑗 is selected for a charging station <br />
 𝑛𝑗 = number of chargers in station 𝑗 <br />
 𝑞𝑗 = number of cars charged by station 𝑗 <br />
@@ -27,6 +31,10 @@ Land-use classification (Geomni - UKLand) : https://digimap.edina.ac.uk/geomni
 𝑣0 = Daily traffic flow in grid cell 𝑖 <br />
 𝐴 = Total area of grid cell 𝑖 <br />
 𝐴𝑖 = Sum of mixed-use area in grid cell 𝑖 <br />
+𝑑𝑟𝑖 = Remaining demand in grid cell 𝑖 <br />
+𝑑𝑖 = Charging demand of an EV in grid cell 𝑖 <br />
+
+
 
 
 
