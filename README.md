@@ -8,4 +8,4 @@ Road shapefiles : https://www.ordnancesurvey.co.uk/business-government/products/
 Land-use classification (Geomni - UKLand) : https://digimap.edina.ac.uk/geomni
 
 # Problem
-![alt text](https://github.com/obedsims/Musk-Model/blob/screenshots/image.jpg?raw=true)
+![alt text](https://github.com/obedsims/Musk-Model/blob/screenshots/0126D6A7-E1EB-4E38-A1A0-A83D6FB5BC31.jpeg?raw=true)
