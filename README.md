@@ -8,8 +8,7 @@ Council Managed Car Parks : https://www.manchester.gov.uk/open/homepage/3/manche
 
 Road shapefiles : https://www.ordnancesurvey.co.uk/business-government/products/open-map-roads
 
-Land-use classification (Geomni - UKLand) : https://digimap.edina.ac.uk/geomni
-
+Land-use classification (Geomni - UKLand) : https://data.gov.uk/dataset/8b8c5df3-d7e3-484c-89d8-c7b819205002/national-historic-landscape-characterisation-250m-grid-england/
 
 # Objective function and Constraints
 ![formulation](https://github.com/obedsims/Musk-Model/blob/main/screenshots/formulation.png)
@@ -42,7 +41,14 @@ Land-use classification (Geomni - UKLand) : https://digimap.edina.ac.uk/geomni
 α = average capacity of EV battery (kWh) <br />
 
 
-
+It is assumed that each charger is possible to charge 𝑚 cars at most per day, and constraint (2) and (3) make sure
+that the cars charged in the station are less than both the capacity of the station and the charging demand. Constraint
+(4) means that the remaining demands in grid 𝑖 are in the service area of only one station, which ensures that
+different demand nodes are distributed to different charging stations. Formula (5) and (6) ensure that each station
+would have at least one charger and at most 𝑙𝑗 chargers, determined by the loads of the power grid. And the
+constraints also have the logical implication that if there is no station, there is no charger, vice versa. Also, the
+budget of allocating charging stations may be limited, so at most N stations would be allocated in the city according
+to formula (7). Constraint (8) makes sure all the decision variables should be integers and nonnegative.
 
 
 
