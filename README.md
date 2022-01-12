@@ -14,4 +14,17 @@ Land-use classification (Geomni - UKLand) : https://digimap.edina.ac.uk/geomni
 # Problem
 ![formulation](https://github.com/obedsims/Musk-Model/blob/main/screenshots/formulation.png)
 
-𝑥_𝑗 = binary variable whether car park 𝑗 is selected for a charging station
+𝑥𝑗 = binary variable whether car park 𝑗 is selected for a charging station
+
+𝑛𝑗 = number of chargers in station 𝑗
+
+𝑞𝑗 = number of cars charged by station 𝑗
+
+𝑚𝑗 = maximum number of charging sessions per day in station 𝑗
+
+𝑙𝑗 = upper bound of chargers in station 𝑗
+
+𝑟𝑖𝑗 = binary variable which represents the service area coverage level of station j on demand node i
+
+
+
