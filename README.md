@@ -15,6 +15,7 @@ Land-use classification (Geomni - UKLand) : https://digimap.edina.ac.uk/geomni
 ![formulation](https://github.com/obedsims/Musk-Model/blob/main/screenshots/formulation.png)
 
 # Equations
+![equations](https://github.com/obedsims/Musk-Model/blob/main/screenshots/equations.png)
 
 
 # Symbol Glossary
