@@ -22,6 +22,7 @@ Land-use classification (Geomni - UKLand) : https://digimap.edina.ac.uk/geomni
 𝑟𝑖𝑗 = binary variable which represents the service area coverage level of station j on demand node i <br />
 𝑓𝑖 = average traffic flow in grid cell 𝑖 <br />
 𝐾𝑖 = Number of traffic flow measurement points in grid cell 𝑖 <br />
+𝑓_(𝑘_𝑖) = Daily traffic flow in grid cell 𝑖
 
 
 
