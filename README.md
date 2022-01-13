@@ -20,25 +20,25 @@ It is assumed that each charger is possible to charge 𝑚 cars at most per day,
 
 
 # Symbol Glossary
-𝑥𝑗 = binary variable whether car park 𝑗 is selected for a charging station <br />
-𝑛𝑗 = number of chargers in station 𝑗 <br />
-𝑞𝑗 = number of cars charged by station 𝑗 <br />
-𝑚𝑗 = maximum number of charging sessions per day in station 𝑗 <br />
-𝑙𝑗 = upper bound of chargers in station 𝑗 <br />
-𝑟𝑖𝑗 = binary variable which represents the service area coverage level of station 𝑗 on demand node 𝑖 <br />
-𝑓𝑖 = average traffic flow in grid cell 𝑖 <br />
-𝐾𝑖 = number of traffic flow measurement points in grid cell 𝑖 <br />
-𝑓𝑘𝑖 = daily traffic flow in grid cell 𝑖 <br />
-𝑣𝑖 = charging possiblility of an EV grid cell 𝑖 <br />
-𝑣0 = daily traffic flow in grid cell 𝑖 <br />
+𝑥<sub>𝑗</sub> = binary variable whether car park 𝑗 is selected for a charging station <br />
+𝑛<sub>𝑗</sub> = number of chargers in station 𝑗 <br />
+𝑞<sub>𝑗</sub> = number of cars charged by station 𝑗 <br />
+𝑚<sub>𝑗</sub> = maximum number of charging sessions per day in station 𝑗 <br />
+𝑙<sub>𝑗</sub> = upper bound of chargers in station 𝑗 <br />
+𝑟<sub>𝑖𝑗</sub> = binary variable which represents the service area coverage level of station 𝑗 on demand node 𝑖 <br />
+𝑓<sub>𝑖</sub> = average traffic flow in grid cell 𝑖 <br />
+𝐾<sub>𝑖</sub> = number of traffic flow measurement points in grid cell 𝑖 <br />
+𝑓𝑘<sub>𝑖</sub> = daily traffic flow in grid cell 𝑖 <br />
+𝑣<sub>𝑖</sub> = charging possiblility of an EV grid cell 𝑖 <br />
+𝑣<sub>0</sub> = daily traffic flow in grid cell 𝑖 <br />
 𝐴 = total area of grid cell 𝑖 <br />
-𝐴𝑖 = sum of mixed-use area in grid cell 𝑖 <br />
-𝑑𝑟𝑖 = remaining demand in grid cell 𝑖 <br />
-𝑑𝑖 = charging demand of an EV in grid cell 𝑖 <br />
+𝐴<sub>𝑖</sub> = sum of mixed-use area in grid cell 𝑖 <br />
+𝑑𝑟<sub>𝑖</sub> = remaining demand in grid cell 𝑖 <br />
+𝑑<sub>𝑖</sub> = charging demand of an EV in grid cell 𝑖 <br />
 𝑑𝑖𝑧 = charging demand of an EV in grid cell 𝑖 already being met by existing station z <br />
-𝑐𝑗 = total costs of station 𝑗 <br />
+𝑐<sub>𝑗</sub> = total costs of station 𝑗 <br />
 𝑐<sup>𝑒</sup>𝑗 = capital cost of station 𝑗 <br />
 𝑐<sup>𝑖</sup>𝑗 = installation cost of station 𝑗 <br />
-𝑝𝑒 = price of electricity per kWh <br />
+𝑝<sub>𝑒</sub> = price of electricity per kWh <br />
 α = average capacity of EV battery (kWh) <br />
 
