@@ -37,8 +37,8 @@ It is assumed that each charger is possible to charge 𝑚 cars at most per day,
 𝑑<sub>𝑖</sub> = charging demand of an EV in grid cell 𝑖 <br />
 𝑑𝑖𝑧 = charging demand of an EV in grid cell 𝑖 already being met by existing station z <br />
 𝑐<sub>𝑗</sub> = total costs of station 𝑗 <br />
-𝑐<sup>𝑒</sup>𝑗 = capital cost of station 𝑗 <br />
-𝑐<sup>𝑖</sup>𝑗 = installation cost of station 𝑗 <br />
+𝑐<sup>𝑒</sup><sub>𝑗</sub> = capital cost of station 𝑗 <br />
+𝑐<sup>𝑖</sup><sub>𝑗</sub> = installation cost of station 𝑗 <br />
 𝑝<sub>𝑒</sub> = price of electricity per kWh <br />
 α = average capacity of EV battery (kWh) <br />
 
