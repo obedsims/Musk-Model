@@ -13,11 +13,6 @@ Land-use classification : https://data.gov.uk/dataset/8b8c5df3-d7e3-484c-89d8-c7
 # Objective function and Constraints
 <img src="screenshots/formulation.png" width=1000 >
 
-
-![formulation](https://github.com/obedsims/Musk-Model/blob/main/screenshots/formulation.png)
-
-
-
 It is assumed that each charger is possible to charge 𝑚 cars at most per day, and constraint (2) and (3) make sure that the cars charged in the station are less than both the capacity of the station and the charging demand. Constraint (4) ensures that the remaining charging demand in grid 𝑖 are in the service area of only one station, which ensures that different demand nodes are distributed to different charging stations. Formula (5) and (6) ensure that each station would have at least one charger and at most 𝑙𝑗 chargers, this can be determined according to the constraints at different points in the power grid. Moreover, the constraints also have the logical implication for example if there is no station, there is no charger and vice versa. Also, a company may have a maxmimum budget allocated to placing charging stations, so at most N stations would be placed in the city according to formula (7). Constraint (8) ensures all the decision variables are integers and non-negative.
 
 # Equations
