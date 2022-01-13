@@ -30,7 +30,7 @@ It is assumed that each charger is possible to charge 𝑚 cars at most per day,
 𝐾<sub>𝑖</sub> = number of traffic flow measurement points in grid cell 𝑖 <br />
 𝑓𝑘<sub>𝑖</sub> = daily traffic flow in grid cell 𝑖 <br />
 𝑣<sub>𝑖</sub> = charging possiblility of an EV grid cell 𝑖 <br />
-𝑣<sub>0</sub> = daily traffic flow in grid cell 𝑖 <br />
+𝑣<sub>0</sub> = charging possibility in grid cell 𝑖 (dependant on the land-use classification)<br />
 𝐴 = total area of grid cell 𝑖 <br />
 𝐴<sub>𝑖</sub> = sum of mixed-use area in grid cell 𝑖 <br />
 𝑑𝑟<sub>𝑖</sub> = remaining demand in grid cell 𝑖 <br />
