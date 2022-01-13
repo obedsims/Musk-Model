@@ -11,6 +11,9 @@ Road shapefiles : https://www.ordnancesurvey.co.uk/business-government/products/
 Land-use classification : https://data.gov.uk/dataset/8b8c5df3-d7e3-484c-89d8-c7b819205002/national-historic-landscape-characterisation-250m-grid-england/
 
 # Objective function and Constraints
+<img src="screenshots/formulation.png" width=1000 >
+
+
 ![formulation](https://github.com/obedsims/Musk-Model/blob/main/screenshots/formulation.png)
 
 
