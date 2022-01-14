@@ -27,7 +27,7 @@ It is assumed that each charger is possible to charge 𝑚 cars at most per day,
 𝑞<sub>𝑗</sub> = number of cars charged by station 𝑗 <br />
 𝑚<sub>𝑗</sub> = maximum number of charging sessions per day in station 𝑗 <br />
 𝑙<sub>𝑗</sub> = upper bound of chargers in station 𝑗 <br />
-𝑟<sub>𝑖𝑗</sub> = binary variable which represents the service area coverage level of station 𝑗 on demand node 𝑖 <br />
+𝑟<sub>𝑖𝑗</sub> = binary variable which represents the service area coverage level of station 𝑗 on demand node 𝑖 (value is equal to 1 if service area coverage is <500m otherwise its 0)<br />
 𝑓<sub>𝑖</sub> = average traffic flow in grid cell 𝑖 <br />
 𝐾<sub>𝑖</sub> = number of traffic flow measurement points in grid cell 𝑖 <br />
 𝑓𝑘<sub>𝑖</sub> = daily traffic flow in grid cell 𝑖 <br />
