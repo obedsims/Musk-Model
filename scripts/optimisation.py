@@ -37,23 +37,6 @@ GIS_df2 = pd.merge(GIS_df, existing_chg_df2, how='left', on='fid')
 GIS_df['no_existing_chg'] = GIS_df2['latitude_touch']
 GIS_df.sort_values('fid', ascending=True)
 
-# Slow Chargers
-m_slow = 16         # Number of charging sessions per day (session/day)
-p_slow = 0.2        # Cost of charging per minute (£/min)
-t_slow = 240        # Charging time for an EV (minutes)
-ci_j_slow = 15000   # Price of equipment (including installation) (£)
-
-# Fast Chargers
-m_fast = 2          # Number of charging sessions per day (session/day)
-p_fast = 2          # Cost of charging per minute (£/min)
-t_fast = 30         # Charging time for an EV (minutes)
-ci_j_fast = 2000    # Price of equipment (including installation) (£)
-
-m = [m_slow, m_fast]
-p = [p_slow, p_fast]
-t = [t_slow, t_fast]
-ci_j = [ci_j_slow, ci_j_fast]
-
 
 def gen_sets(df_demand, df_parking):
     """Generate sets to use in the optimization problem"""
