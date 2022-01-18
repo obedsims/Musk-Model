@@ -8,7 +8,8 @@ Council Managed Car Parks : https://www.manchester.gov.uk/open/homepage/3/manche
 
 Road shapefiles : https://www.ordnancesurvey.co.uk/business-government/products/open-map-roads
 
-Land-use classification : https://data.gov.uk/dataset/8b8c5df3-d7e3-484c-89d8-c7b819205002/national-historic-landscape-characterisation-250m-grid-england/
+Land-use classification : https://data.gov.uk/dataset/8b8c5df3-d7e3-484c-89d8-c7b819205002/national-historic-landscape-characterisation-250m-grid-england/ <br />
+or https://www.geomni.co.uk/ukland
 
 Daily traffic flow : https://roadtraffic.dft.gov.uk/local-authorities/85
 
