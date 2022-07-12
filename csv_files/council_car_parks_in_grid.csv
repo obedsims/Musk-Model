@@ -1,0 +1,110 @@
+fid,UPRN,Site Name,Address,Easting,Northing,Ward,Lease Information,Site Function,Sub Function,Function Detail
+"1","10091144641","Car Park Bounded By Trinity Way, A6402 And The River Irwell, Water Street"," Car Park Bounded By Trinity Way, A6402,  River Irwell, Water Street,","382812","397838",Deansgate,Leasehold,Non-Operational,Investment,Car Parking
+"2","10091145877",Land For Car Park Potato Wharf,"Land For Car Park, Potato Wharf,","383017","397735",Deansgate,Leasehold,Non-Operational,Investment,Car Parking
+"3","10023047744",Car Parking Spaces Rear Of 17 Ellesmere Street,"Car Parking Spaces Rear Of 17, Ellesmere Street,M15 4JY","382685","397193",Hulme,Leasehold,Non-Operational,Investment,Car Parking
+"4","10023051981",Castlefield Estates Ltd Car Park & Land under the Arches at Duke Street,"Castlefield Estates Ltd Car Park & Land under the Arches at, Duke Street,M3 4NF","383140","397597",Deansgate,Leasehold,Non-Operational,Investment,Car Parking
+"5","10091145307",Land Rear Of 31 To 35 Bury New Road Cheetwood Street,"Land Rear Of 31 To 35 Bury New Road, Cheetwood Street,M8 8EQ","383482","399640",Cheetham,Leasehold,Non-Operational,Investment,Car Parking
+"6","10091145454",Land Adjacent To 5 Sagar Street Sagar Street,"Land Adjacent To 5 Sagar Street, Sagar Street,","383513","399747",Cheetham,Leasehold,Non-Operational,Investment,Car Parking
+"7","10093073154",Land At Sagar Street,"Land At, Sagar Street,","383512","399720",Cheetham,Leasehold,Non-Operational,Investment,Car Parking
+"8","10093075555",Car Park Dewhurst Street,"Car Park Dewhurst Street, ","383552","399681",Cheetham,Leasehold,Non-Operational,Investment,Car Parking
+"9","10090669820","Car Park, Langston Street","Car Park, Langston Street,","383548","399412",Cheetham,Leasehold,Non-Operational,Investment,Car Parking
+"10","10090669829",Car Park At Julia Street Junction,"Car Park At Julia Street Junction, Mary Street,","383618","399269",Cheetham,Leasehold,Non-Operational,Investment,Car Parking
+"11","10091145393",Land at Thompson Street,"Thompson Street Land at, Cheetham,","383537","399451",Cheetham,Leasehold,Non-Operational,Investment,Car Parking
+"12","10023047555",NCP Car Park Bridge Street,"Car Park Adjacent Albert Bridge House, Bridge Street,M3 2RE","383383","398367",Deansgate,Leasehold,Non-Operational,Investment,Car Parking
+"13","10023050079",Car Park  At Junction Of The Parsonage And King Street West,"Car Park Junction Of The Parsonage, King Street West,M3 2ZZ","383572","398363",Deansgate,Leasehold,Non-Operational,Investment,Car Parking
+"14","10023048465","NCP Car Park, Stone Street","Car Park, Stone Street,M3 4NE","383261","397729",Deansgate,Leasehold,Non-Operational,Investment,Car Parking
+"15","10023061705",St Johns Court,"St Johns Court, Young Street,M3 3FT","383265","398097",Deansgate,Leasehold,Non-Operational,Investment,Car Parking
+"16","10090668718","Bridgewater Car Park, Little Peter Street","Bridgewater Car Park, Little Peter Street,M15 4PS","383562","397423",Deansgate,Unavailable,Non-Operational,Other,Car Parking
+"17","10091145317",Land at the rear of 380 Deansgate,"Land at the rear of  380, Deansgate,M3 4LY","383310","397541",Deansgate,Leasehold,Non-Operational,Investment,Car Parking
+"18","10023052517","Car Park Adjacent To Moss Side Retail Market, Denhill Road","Car Park Adjacent Moss Side Retail Market, Denhill Road,M15 5LF","383663","395946",Hulme,Leasehold,Non-Operational,Investment,Car Parking
+"19",010090423975-CARPARK,Moss Side Underground Car Park,"Moss Side Underground Car Park, Denhill Road,Hulme,M15 5LF","383663","395946",Hulme,Occupied by the local authority,Operational,Direct Service,Off-Street Car Park
+"20","10093690280",Land Adjacent To Al-Sunnah Mosque Lanbury Drive,"Land Adjacent To Al-Sunnah Mosque, Lanbury Drive,","383898","401111",Cheetham,Leasehold,Non-Operational,Other,Car Parking
+"21","77102096",Glentop House (and Car Park),"Glentop House (and Car Park), Pimblett Street,M3 1FU","383914","399343",Cheetham,Ground Leasehold,Non-Operational,Investment,Car Parking
+"22","10090668266","Car Park, Great Ducie Street","Car Park, Great Ducie Street,M3 1WB","383810","399216",Cheetham,Ground Leasehold,Non-Operational,Investment,Car Parking
+"23","10023050075","Market Place Car Park, Deansgate","Market Place Car Park, Blackfriars Street,M3 2EQ","383713","398603",Deansgate,Leasehold,Non-Operational,Investment,Car Parking
+"24","10023048298",Queen Street Car Park," Queen Street,M2 5HT","383691","398125",Deansgate,Ground Leasehold,Non-Operational,Investment,Car Parking
+"25","10023048762",Car Park Junction Chepstow Street and Chepstow Street South,"Car Park Junction Chepstow Street, Chepstow Street South,M1 5ZZ","383927","397647",Deansgate,Occupied by the local authority,Operational,Other,Car Parking
+"26","10023048917",Car Park at Junction of Nicholas Street and Faulkner Street,"Car Park Junction Nicholas Street, Faulkner Street,M1 4EF","384180","398008",Deansgate,Leasehold,Non-Operational,Investment,Car Parking
+"27","10023049317",Hulme Street Car Park,"Hulme Street Car Park, Hulme Street,M1 5GF","383930","397248",Deansgate,Leasehold,Non-Operational,Investment,Car Parking
+"28","10091146717",Land Adjacent To 104 Claremont Road,"Land Adjacent To 104, Claremont Road,","383876","395188",Whalley Range,Unavailable,Non-Operational,Investment,Car Parking
+"29","10090668935",Land Between 86 North Street And Unit 1 Peel Lane,"Land Between 86 North Street And Unit 1, Peel Lane,M8 8RJ","384537","399851",Cheetham,Ground Leasehold,Non-Operational,Investment,Car Parking
+"30","77123938",54 Red Bank,"54, Red Bank,M8 8QF","384354","399508",Cheetham,Leasehold,Non-Operational,Investment,Car Parking
+"31","10023059036",Car Park On Left Side Roger Street,"Car Park On Left Side, Roger Street,M4 4EJ","384421","399410",Cheetham,Leasehold,Non-Operational,Investment,Car Parking
+"32","10090668831",Roger Street Car Park,"Car Park, Roger Street,M4 4EN","384350","399434",Cheetham,Leasehold,Non-Operational,Investment,Car Parking
+"33","10090669392",Land At Northern Junction Of Crabbe Street And Hargreaves Street,"Land Containing Building At Northern Junction Of Crabbe Street and, Hargreaves Street,M4 4EJ","384439","399457",Cheetham,Leasehold,Non-Operational,Investment,Car Parking
+"34","10023047595",Car Park At Junction Of Oldham Road And Cable Street,"Car Park At The Junction Of, Oldham Road And Cable Street,M4 5ZZ","384638","398743",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"35","10023048999",Car Park Rear Of 32 Mason Street,"Car Park Rear Of 32, Mason Street,M4 5EY","384648","398901",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"36","10023049384",Euro Car Parks (uk) Ltd Goulden Street,"Euro Car Parks (uk) Ltd, Goulden Street,M4 5EY","384670","398922",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"37","10090667480",Land Behind Number 6 Angel Street,"Land Behind Number 6, Angel Street,M4 4BR","384503","398972",Piccadilly,Ground Leasehold,Non-Operational,Investment,Car Parking
+"38","10090669735",Car Park Between Addington Street And Marshall Street,"Land Containing Car Park Between Addington Street And, Marshall Street,","384656","398837",Piccadilly,Ground Leasehold,Non-Operational,Investment,Car Parking
+"39","10091143483",Land at Cable Street,"Land Adjacent To 40 Swan Street, Cable Street,M4 5EG","384559","398822",Piccadilly,Ground Leasehold,Non-Operational,Investment,Car Parking
+"40","10093690624",Land At Former 47 Rochdale Road Sharp Street,"Land At Former 47, Rochdale Road Sharpe Street,","384602","399031",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"41","10023048314","NCP Car Park, Church Street","Car Park, Red Lion Street,M4 1PA","384362","398528",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"42","10094704364","Arndale Centre Car Park, Nicholas Croft","Arndale Centre Car Park, Nicholas Croft, High Street,M4 1QB","384200","398570",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"43","10023052381",Car Park Junction Abingdon Street and Major Street,"Car Park Junction Abingdon Street, Major Street,M1 3ED","384229","397883",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"44","10023057022","Car Park Rear Of Bus Station, Bloom Street","Car Park Rear Of Bus Station, Bloom Street,M1 3JF","384344","397916",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"45","10091142455","Car Park, Abingdon Street","Car Park, Abingdon Street,","384244","397843",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"46","10091145391","Land on The Corner of Grosvenor Street, Brook Street & Greek Street","Land on The Corner of, Grosvenor Street, Brook Street & Greek Street,","384576","397220",Ardwick,Leasehold,Non-Operational,Investment,Car Parking
+"47","10093075896","University Car Park, Booth Street East","University Car Park, Booth Street East,","384674","396929",Hulme,Ground Leasehold,Non-Operational,Investment,Car Parking
+"48","10094704174",Aquatics Centre Car Park,"Manchester Aquatics Centre, York Street,M1 7XN","384418","397028",Hulme,Ground Leasehold,Non-Operational,Investment,Car Parking
+"49","10091143542",Car Parking Next To Polish RC Church Monton Street,"Car Parking Space Junction Of Moss Lane East Next To Polish RC Church, Monton Street,M14 4GP","384375","395755",Hulme,Ground Leasehold,Non-Operational,Investment,Car Parking
+"50","10093075552",Car Park at Acomb Street/Burleigh Street,"Car Park at, Acomb Street/Burleigh Street,","384646","396076",Ardwick,Leasehold,Non-Operational,Investment,Car Parking
+"51","10023047781",Car Park 113 - 125 George Leigh Street Manchester M4 6BE,"113 - 125, George Leigh Street,M4 6BE","385098","398880",Ancoats & Beswick,Leasehold,Non-Operational,Investment,Car Parking
+"52","10023048173",Car Park Adjacent 39 Portugal Street,"Car Park Adjacent 39, Portugal Street,M4 6BL","385108","398966",Ancoats & Beswick,Leasehold,Non-Operational,Investment,Car Parking
+"53","10023049692",Euro Car Park Junction Cross Keys Street Thompson Street,"Euro Car Park, Junction Cross Keys Street Thompson Street,M4 5FY","384695","398965",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"54","10093076588","Car Park, Bendix Street","Car Park, Bendix Street,","384791","398872",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"55","10090669701",Land Between 67 And 77 Ducie Street,"Land Between 67 And 77, Ducie Street,M1 2JQ","385061","398274",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"56","10091145836",Car Park adjacent to 32 - 34 Laystall Street,"Land, Pigeon Street,","384971","398256",Piccadilly,Unavailable,Non-Operational,Investment,Car Parking
+"57","10091146725",Land at Jersey Street," Jersey Street,M4 6JR","384854","398510",Ancoats & Beswick,Leasehold,Non-Operational,Investment,Car Parking
+"58","10090668655",Car Park Sheffield Street,"Car Park, Sheffield Street,M1 2ND","385060","397912",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"59","10090669455",Car Park Rear Of 18 Sparkle Street," Car Park From Rear Of 18 Sparkle Street To Junction Of Sheffield Street Boad Street,","384919","397951",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"60","10093074195",Land at Dryden Street,"Land at, Dryden Street,","385116","396549",Ardwick,Leasehold,Non-Operational,Investment,Car Parking
+"61","10091143268",Land Next To 417 Upto Junction With Heald Place Claremont Road,"Land Next To 417 Upto Junction Heald Place, Claremont Road,M14 5XF","384913","395137",Moss Side,Leasehold,Non-Operational,Investment,Car Parking
+"62","10023052383",500 - 504 Rochdale Road,"500 - 504 ,Rochdale Road,M9 5AR","385673","401107",Harpurhey,Leasehold,Non-Operational,Investment,Car Parking
+"63","10012203519",Car Park Jersey Street,"Car Park, Jersey Street,","385228","398798",Ancoats & Beswick,Leasehold,Non-Operational,Investment,Car Parking
+"64","10093075273",Land At Wadeford Close,"Land at, Wadeford Close,","385203","399027",Ancoats & Beswick,Unavailable,Non-Operational,Investment,Car Parking
+"65","10091142962",Land Behind Mayes Gardens Snell Street,"Land Behind Mayes Gardens, Snell Street,","385632","398178",Ancoats & Beswick,Leasehold,Non-Operational,Investment,Car Parking
+"66","10094091536",Car park at Providence Street,"Car Park, Providence Street,","385618","398286",Ancoats & Beswick,Unavailable,Non-Operational,Other,Car Parking
+"67","10023050098",Land Used For Storage Junction Blackett Street,"Land Used For Storage Junction Blackett Street, Fairfield Street,","385505","397673",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"68","10023052633",Maiden No 1580 Adjacent 127-129 Fairfield Street,"Maiden No 1580 Adjacent 127-129, Fairfield Street,M12 6EL","385450","397675",Piccadilly,Unavailable,Non-Operational,Investment,Car Parking
+"69","10091145455","Car Park, Junction of Epworth Street And Great Ancoats Street","Land At Junction, Epworth Street And Great Ancoats Street,","385346","398049",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"70","10023056005",Car Parking Spaces Opposite 64 to 75 North Western Street,"Car Spaces Opposite 64 To 75, North Western Street,Ardwick,M12 6DX","385652","397424",Ardwick,Leasehold,Non-Operational,Investment,Car Parking
+"71","10090669465",Land Between Mancunian Way And Mellor Street," Land Between Mancunian Way And Mellor Street Crane Street,","385462","397589",Piccadilly,Leasehold,Non-Operational,Investment,Car Parking
+"72","10093074188",Car Park at Marshall Street,"Car Park, Marshall Street,Ardwick,","385407","396935",Ardwick,Unavailable,Non-Operational,Investment,Car Parking
+"73","77137429",65 Plymouth Grove (adjacent land only),"65, Plymouth Grove,M13 9LU","385277","396462",Ardwick,Ground Leasehold,Non-Operational,Investment,Car Parking
+"74","10023055281","Car Park, Thurloe Street","Car Park, Thurloe Street,M14 5SG","385238","395330",Rusholme,Unavailable,Non-Operational,Investment,Car Parking
+"75","10090669782","Car Park, Conran Street","Car Park, Conran Street,M9 5PR","386024","401276",Harpurhey,Leasehold,Non-Operational,Investment,Car Parking
+"76","10090668750","Car Park, Sawley Road","Car Park, Sawley Road,M40 8DF","385886","399695",Miles Platting & Newton Heath,Unavailable,Non-Operational,Investment,Car Parking
+"77","10090668776",Car Park Rear Of 131 Ashton Old Road,"Car Park Rear Of 131 Ashton Old Road, Viaduct Street,","386110","397640",Ancoats & Beswick,Leasehold,Non-Operational,Investment,Car Parking
+"78","77137531",3 Pittbrook Street,"3, Pittbrook Street,M12 6LT","385884","397347",Ardwick,Occupied by the local authority,Operational,Other,Car Parking
+"79","10023052372",Car Parking Space 37 - 45 Devonshire Street North,"Car Parking Space 37 - 45, Devonshire Street,","385748","397185",Ardwick,Leasehold,Non-Operational,Investment,Car Parking
+"80","10091144434",Car Park Next To Bensons Skip Hire,"Car Park Next To Bensons Skip Hire, Beckford Street,M40 5AE","386324","400143",Miles Platting & Newton Heath,Ground Leasehold,Non-Operational,Investment,Car Parking
+"81","77156855",2 Rowsley Street,"2, Rowsley Street,M11 3FF","386501","398509",Ancoats & Beswick,Leasehold,Non-Operational,Investment,Car Parking
+"82","10023047738",Car Park Ebsworth Street,"Car Park, Ebsworth Street,M40 9WD","387030","401880",Moston,Unavailable,Non-Operational,Investment,Car Parking
+"83","10093075671",Land at Thorp Road,"Land at, Thorp Road,","387093","400726",Harpurhey,Leasehold,Non-Operational,Investment,Car Parking
+"84","77020877","Holiday Inn, 888 Oldham Road (Car Parking Only)","888, Oldham Road,M40 2BS","386733","400212",Miles Platting & Newton Heath,Leasehold,Non-Operational,Investment,Car Parking
+"85","10090668212",Land Between Wedgewood Street And Clifton Street,"Land Between Wedgewood Street And Clifton Street, Lord North Street,","386683","399673",Miles Platting & Newton Heath,Leasehold,Non-Operational,Investment,Car Parking
+"86","10070866055",Land Between Joe Mercer Way and Alan Turing Way,"Land Between, Joe Mercer Way and Alan Turing Way,","386794","398860",Ancoats & Beswick,Leasehold,Non-Operational,Investment,Car Parking
+"87","10094703592",Car Park Behind Jenkyn Walk at Newcombe Close,"Car Park Behind Jenkyn Walk, Newcombe Close,","386938","398287",Ancoats & Beswick,Unavailable,Non-Operational,Other,Car Parking
+"88","10091146545",Odell Street Car Park,"Odell Street Car Park, Odell Street,","387649","397434",Clayton & Openshaw,Leasehold,Non-Operational,Investment,Car Parking
+"89","10091143479",Land Used For Car Parking At Junction Gorebrook Court Pink Bank Lane,"Land Used For Car Parking At Junction Gorebrook Court, Pink Bank Lane,M12 5UZ","387471","395685",Longsight,Leasehold,Non-Operational,Investment,Car Parking
+"90","10091143465",Land Between Junctions Crowcroft Road And Slade Hall Road Stockport Road,"Land Between Junctions Crowcroft Road And Slade Hall Road, Stockport Road,M12 4GD","387204","394965",Longsight,Leasehold,Non-Operational,Investment,Car Parking
+"91","10091144693",Former Properties 1 And 3 Woodfold Avenue,"Land to The Rear of 828 to 834 Stockport Road, Woodfold Avenue,M19 3AP","387333","394571",Levenshulme,Unavailable,Non-Operational,Other,Car Parking
+"92","77040465",International House (land adjacent only),"30, Holyoak Street,M40 1HB","388139","400643",Miles Platting & Newton Heath,Leasehold,Non-Operational,Investment,Car Parking
+"93","10091146393",land at Aintree Street,"Land at, Aintree Street,","387846","398453",Clayton & Openshaw,Leasehold,Non-Operational,Investment,Car Parking
+"94","10091143789",Land at Welcomb Street,"Land Between Whitworth Street And Ashton Old Road Upto Reby Street, Welcomb Street,M11 2NP","387887","397414",Clayton & Openshaw,Ground Leasehold,Non-Operational,Investment,Car Parking
+"95","10091144704",Car Park Adjacent Storey Carpets 1350 Droylsden Road,"Car Park Adjacent 1350, Oldham Road, Droylsden Road,M40 1HU","388199","400678",Miles Platting & Newton Heath,Leasehold,Non-Operational,Investment,Car Parking
+"96","10093075251","Land at Stokes Street, Manchester","Land At, Stokes Street,","388668","398297",Clayton & Openshaw,Leasehold,Non-Operational,Investment,Car Parking
+"97","10090670000",Land At Junction Cornwall Street Adjacent Unit 1 Whitworth Street East,"Land At Junction Cornwall Street Adjacent Unit 1, Whitworth Street East,M11 2NQ","388557","397352",Clayton & Openshaw,Leasehold,Non-Operational,Investment,Car Parking
+"98","10091142416","Land Between The Vulcan Pub And Earlswood Walk, Gorton Lane","Land Between The Vulcan Pub And Earlswood Walk, Gorton Lane,","388427","396652",Gorton & Abbey Hey,Ground Leasehold,Non-Operational,Investment,Car Parking
+"99","77035056",Land Adj To 334 Droylsden Road,"Land Adj To 334 Droylsden Road, (Former No's 328, 330 And 332), M40 1GF","388848","400105",Miles Platting & Newton Heath,Unavailable,Non-Operational,Investment,Car Parking
+"100","10023059667",Foresters Arms,"Foresters Arms, Ashton Old Road,M11 1JJ","389178","397346",Clayton & Openshaw,Leasehold,Non-Operational,Investment,Car Parking
+"101","10091144700",Car Park To Rear Of 1121 Ashton Old Road,"Car Park to rear of 1121Ashton Old Road, Louisa Street,M11 1AA","388696","397486",Clayton & Openshaw,Leasehold,Non-Operational,Investment,Car Parking
+"102","77176169",Angel Inn (adjacent car park only)," Wellington Street,M18 8TX","388707","396362",Gorton & Abbey Hey,Leasehold,Non-Operational,Investment,Car Parking
+"103","10093073907",Land Adj Abbey Court Hollybush Street,"Land Adj Abbey Court Hollybush Street, ","389074","396553",Gorton & Abbey Hey,Unavailable,Non-Operational,Investment,Car Parking
+"104","10093074995",Land at Ashkirk Street,"Land At, Ashkirk Street,","388765","396299",Gorton & Abbey Hey,Unavailable,Non-Operational,Investment,Car Parking
+"105","10090423929",Vale Cottage Inn,"1, Croft Bank,M18 8WH","389026","396016",Gorton & Abbey Hey,Leasehold,Non-Operational,Investment,Car Parking
+"106","10023061659",Edge Lane Business Park,"Edge Lane Business Park, Edge Lane,M11 1DG","389303","397661",Clayton & Openshaw,Ground Leasehold,Non-Operational,Investment,Car Parking
+"107","10091145341",Land Adjacent To Surgery Ashton Old Road,"Car Park Adjacent To Surgery, Ashton Old Road,M11 1JG","389440","397334",Clayton & Openshaw,Unavailable,Non-Operational,Investment,Car Parking
+"108","10093075475",Car Park At Erin Street,"Land At, Erin Street,","389189","397328",Clayton & Openshaw,Unavailable,Non-Operational,Investment,Car Parking
+"109","10090669816",Car Park At Junction Of Victor Mann Street,"Car Park At Junction Of Victor Mann Street, Ashton Old Road,","390036","397365",Clayton & Openshaw,Ground Leasehold,Non-Operational,Investment,Car Parking
